@@ -1,6 +1,6 @@
 # Linear Regression Implementation 
 
-linearRegression1.py
+LinearRegression1.py
 
 ---
 This script uses python libraries to perform linear regression on 'headbrain.csv'. 
